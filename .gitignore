@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ruchit_BookStore/.vs/ruchit_BookStore/v16
+/ruchit_BookStore/ruchit_BookStore/obj
